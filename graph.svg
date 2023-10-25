@@ -26,7 +26,7 @@
       }
     }
     #graph #text-pixels {
-      animation: step 6000ms steps(80) infinite;
+      animation: step 4000ms steps(1000000) infinite;
     }
     #graph .pixel {
       width: 10px;
